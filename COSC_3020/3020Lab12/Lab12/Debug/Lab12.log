@@ -1,0 +1,5 @@
+﻿  BinPacking.cpp
+c:\users\ryanc\desktop\lab12\lab12\binpacking.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryanc\desktop\lab12\lab12\binpacking.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  Lab12.vcxproj -> C:\Users\ryanc\Desktop\Lab12\Debug\Lab12.exe
+  Lab12.vcxproj -> C:\Users\ryanc\Desktop\Lab12\Debug\Lab12.pdb (Partial PDB)
