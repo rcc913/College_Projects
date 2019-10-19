@@ -1,0 +1,43 @@
+Size of the int queue array is 5
+Total number of elements in the char queue array is 0
+
+Return value is 1
+Return value is 1
+Return value is 1
+Return value is 1
+Return value is 1
+Return value is -1
+Number of elements in the first queue in int queue array is 5
+Number of elements in the second queue in int queue array is 0
+Number of elements in the third queue in int queue array is 8
+Number of elements in the fourth queue in int queue array is 0
+Number of elements in the fifth queue in int queue array is 2
+Total number of elements in the int queue array is 15
+
+Return value is 1
+Return value is 1
+Return value is 1
+Return value is 1
+Return value is 1
+Return value is 1
+Return value is 1
+Return value is 1
+Return value is 1
+Return value is 1
+Return value is 1
+Number of elements in the second queue in char queue array is 6
+Number of elements in the third queue in char queue array is 0
+Number of elements in the fourth queue in char queue array is 0
+Total number of elements in the char queue array is 21
+
+Elements in the seventh queue in char queue array are a a a a a a a a a a a
+
+ Elements in the fifth queue in int queue array are 10 10
+Dequeued element from the int queue array is 0
+Dequeued element from the int queue array is 1
+ Elements in the first queue in int queue array are 2 3 4
+ Elements in the second queue in char queue array are b b b b b b
+Dequeued element from the char queue array is b
+Dequeued element from the char queue array is b
+Dequeued element from the char queue array is b
+ Elements in the second queue in char queue array are b b b
